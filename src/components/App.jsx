@@ -1,16 +1,11 @@
+import { Container } from './app.styled';
+import { Dicson } from './Dicson/Dicson';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <Container>
+      <h1>My work</h1>
+      <Dicson />
+    </Container>
   );
 };
