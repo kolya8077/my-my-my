@@ -2,7 +2,7 @@
   "name": "my-my-my",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kolya8077.github.io/react-homework-template/",
+  "homepage": "https://kolya8077.github.io/my-my-my/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
